@@ -47,18 +47,18 @@ The model explains only about 25% of the variance in loan amounts. The target va
  
 ```
 /report
-  Final_DAT_690.pdf            - final presentation
-  technical_writeup.docx       - full CRISP-DM writeup (data understanding, prep, modeling, evaluation)
-  turnover_report.docx         - production handoff documentation for IT
+  Final PowerPoint.pdf                - final presentation
+  Compiled Milestones.pdf             - full CRISP-DM writeup (data understanding, prep, modeling, evaluation)
+  Production Turnover Report.pdf      - production handoff documentation for IT
 /diagrams
-  flowchart_final.docx         - CRISP-DM process flowchart with explanation
+  Bussiness Process Flowchart.pdf     - CRISP-DM process flowchart with explanation
 /scripts
-  model_pipeline.R             - full preprocessing, modeling, and evaluation pipeline
+  Model_pipeline.R                    - full preprocessing, modeling, and evaluation pipeline
 /data
-  CreditAmount_Data.csv        - simulated training data (no PII)
-  CreditAmount_DataDictionary  - Explanation of all fields in the data
-  CreditAmount_Verify.csv      - simulated validation data (no PII)
-  summary_matrix.csv           - summary statistics for top correlated features
+  CreditAmount_Data.csv               - simulated training data (no PII)
+  CreditAmount_DataDictionary         - Explanation of all fields in the data
+  CreditAmount_Verify.csv             - simulated validation data (no PII)
+  summary_matrix.csv                  - summary statistics for top correlated features
 README.md
 ```
  
