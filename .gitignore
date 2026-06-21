@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# MP4 files
+*.mp4
+
+# Word files
+*.docx
+
+# PowerPoint files
+*.pptx
