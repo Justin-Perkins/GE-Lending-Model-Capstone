@@ -92,7 +92,8 @@ preprocess_test_data <- function(data, training_columns) {
 
 # Load the data
 CreditAmount_Data <- read_csv(here("data", "CreditAmount_Data.csv"))
-CreditAmount_Data_Test <- read_csv("DAT 690 Data Files/CreditAmount_Verify.csv")
+CreditAmount_Data_Test <- read_csv(here("data", "CreditAmount_Verify.csv"))
+
 
 # Preprocess the data
 CreditAmount_Data      <- preprocess_training_data(CreditAmount_Data)
